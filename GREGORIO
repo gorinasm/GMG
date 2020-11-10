@@ -1,0 +1,199 @@
+#EXTIM3U
+
+
+#EXTINF:-1 , MEGA
+https://livestartover-i.akamaized.net/geomega/bitrate_4.m3u8
+
+#EXTINF:-1 ,LA 1
+https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
+
+#EXTINF:-1 ,LA 2
+https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
+
+#EXTINF:-1 ,LA 3
+https://livestartover-i.akamaized.net/antena3/bitrate_4.m3u8
+
+#EXTINF:-1 ,LA 4
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8#EXTNF:-1 ,
+
+#EXTNF:-1 ,LA 5
+https://live.mitele.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+
+#EXTNF:-1 ,LA 6
+http://gobest.ddns.net:8080/live/yE7EG1r5KA/b6yrIbTxDK/184132.ts
+
+#EXTNF:-1 ,TELEMADRID TV
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTNF:-1 , ARAGON 
+https://streamer92.server.aranova.cloud/cls/live/aragontv_canal1/index.m3u8
+
+#EXTNF:-1 , CMM  
+http://klive.kaltura.com/s/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/jOJi3mTXc69QscOUx1aqew/index-s32.m3u8
+
+#EXTNF:-1 , 7 TV MURCIA  
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1 ,LA 24H
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
+
+#EXTINF:-1 ,A3S SERIE
+https://directo.atresmedia.com/1604957047_581b333741dc4dec6831c3297d7ec8e2a4fcb724/geoa3series/bitrate_2.m3u8
+
+#EXTINF:-1 , FDF
+http://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+
+#EXTNF:-1 ,ENERGY
+http://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+
+#EXTNF:-1 ,DMAX
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1626707350.m3u8
+
+#EXTNF:-1 ,WWE NETWORK
+https://s1.ustv24h.live/WWE/myStream/chunks.m3u8
+
+#EXTNF:- ,CAZAVISION
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
+#EXTNF:- ,CAZA Y PESCA
+https://tompulo5.mitopo.me/live/cazaypesca/index.m3u8
+
+#EXTNF:-1 ,CALLE 13
+https://tompulo2.mitopo.me/live/calle13/index.m3u8
+
+
+#EXTNF:-1 ,TURBO
+https://espare.tk/live/discovery_turbo_lat.m3u8
+
+#EXTNF:-1 ,TNT
+https://tompulo7.mitopo.me/live/tnt/index.m3u8 
+
+#EXTNF:-1 ,AMC ONLINE 
+https://tompulo6.mitopo.me/live/amc/index.m3u8 
+
+#EXTNF:-1 ,AXN 
+https://tompulo2.mitopo.me/live/axn/index.m3u8 
+
+#EXTNF:-1 ,CALLE 13
+https://tompulo2.mitopo.me/live/calle13/index.m3u8
+
+#EXTNF:-1 ,SYFY 
+https://tompulo8.mitopo.me/live/syfy/index.m3u8
+ 
+#EXTNF:-1 ,DARK 
+https://corchita12.pedromo.me/live/dark/index.m3u8
+
+#EXTNF:-1 ,PARAMOUNT 
+https://tompulo4.mitopo.me/live/paramountchannel/index.m3u8
+
+#EXTNF:-1 ,HOLLYWOOD 
+https://tompulo6.mitopo.me/live/hollywood/index.m3u8
+
+#EXTNF:-1 ,NATIONAL GEOGRAPHIC
+https://tompulo3.mitopo.me/live/nationalgeo/index.m3u8
+
+#EXTNF:-1 ,NATIONAL GEO WILD
+https://tompulo7.mitopo.me/live/nationalwild/index.m3u8
+
+#EXTNF:-1 ,CANAL HISTORIA 
+https://tompulo2.mitopo.me/live/historia/index.m3u8
+
+#EXTNF:-1 ,DISEA   
+https://tompulo2.mitopo.me/live/odisea/index.m3u8
+
+#EXTNF:-1 ,CRIMEN + INVESTIGACIÓN 
+https://tompulo7.mitopo.me/live/ci/index.m3u8
+
+#EXTNF:-1 , CAZA Y PESCA
+https://tompulo4.mitopo.me/live/cazaypesca/index.m3u8  
+
+#EXTNF:-1 ,CAZAVISION 
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
+#EXTNF:-1 ,TORO  
+https://corchita12.pedromo.me/live/toros/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR #0 
+https://tompulo5.mitopo.me/live/plus1/index.m3u8
+
+#EXTNF:-1 ,MOVISTER #vamos
+https://perocoma152.caraponi.me/live/vamos/index.m3u8 
+
+#EXTNF:-1 ,MOVISTAR estreno
+https://perocoma152.caraponi.me/live/plusseries/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR acion
+https://tompulo2.mitopo.me/live/plusaccion/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR drama
+https://tompulo2.mitopo.me/live/drama/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR disnep
+https://perocoma152.caraponi.me/live/plusdisney/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR serie
+https://perocoma152.caraponi.me/live/plusseries/index.m3u8
+
+#EXTNF:-1 ,MOVISTAR seriemania
+https://perocoma152.caraponi.me/live/seriesmania/index.m3u8
+
+#EXTNF:-1 ,FOX 
+https://perocoma152.caraponi.me/live/fox/index.m3u8      
+
+#EXTNF:-1 ,FOX LIFE
+https://tompulo4.mitopo.me/live/foxlife/index.m3u8
+
+#EXTNF:-1 ,FOR SERIE
+http://89.105.194.59:25461/live/2sptMM40/2sptMM40/18.m3u8
+
+#EXTNF:-1 ,FOR ACION 
+http://89.105.194.59:25461/live/5spk$QW/5spk$QW/19.m3u
+
+#EXTNF:-1 ,CINEMAS
+http://89.105.194.59:25461/live/3sp$Q10/3sp$Q10/5.m3u8
+
+#EXTNF:-1 ,HBO 1 
+http://89.105.194.59:25461/live/1spT1!!g/1spT1!!g/24.m3u8   
+
+#EXTNF:-1HBO 2 
+http://89.105.194.59:25461/live/1spT1!!g/1spT1!!g/24.m3u8
+
+#EXTNF:-1 ,BARSA  TV  
+https://corchita16.pedromo.me/live/barca/index.m3u8
+
+#EXTNF:-1 ,RAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTNF:-1 ,EUROSPORT 1
+https://perocoma152.caraponi.me/live/eurosport1/index.m3u8
+
+#EXTNF:-1 ,EUROSPORT 2
+https://perocoma152.caraponi.me/live/eurosport2/index.m3u8
+
+#EXTNF:-1 ,ESPAN   1 
+https://e10.habrox.xyz/ingestnb4s/espn_sur/d.m3u8
+
+#EXTNF:-1 , ESPAN   2 
+https://e10.habrox.xyz/ingestnb4s/espn2_sur/d.m3u8
+
+#EXTNF:-1 ,ESPAN 3 
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/d.m3u8
+
+#EXTNF:-1 ,BOX NATION 
+https://e5.habrox.xyz/ingest02/26836.m3u8
+
+#EXTNF:-1 ,PREMIER LEOGUE  
+https://perocoma152.caraponi.me/live/espn/index.m3u8
+
+#EXTNF:-1 , FORMULA 1
+https://e3.habrox.xyz/ingest013/67892.m3u8
+
+#EXTNF:-1 ,LIGA SMARTBANK
+https://e1.habrox.xyz/ingest01/68456.m3u8  
+
+#EXTNF:-1 ,LIGA TV BAR 
+https://e9.habrox.xyz/ingest01/67231.m3u8
+
+#EXTNF:-1 ,LIGA 1
+https://e9.habrox.xyz/ingest01/67231.m3u8  
+
